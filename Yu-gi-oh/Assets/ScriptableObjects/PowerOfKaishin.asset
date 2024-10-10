@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 423fc132b9a3a7747a541ba3b699d650, type: 3}
+  m_Name: PowerOfKaishin
+  m_EditorClassIdentifier: 
+  description: 
+  cardimage: {fileID: 21300000, guid: 28471fe1b1029654ca701ab439fa9427, type: 3}
+  iscardfaceup: 0
+  deathreason: 0
+  playManager: {fileID: 0}
+  trigger: 0
+  targetcard: {fileID: 0}
+  cardNameUsed1: 0
+  thisCardUsed: 0
+  NeedTarget: 1
+  Needtargetpos: 0
+  Needtargettype: 0
+  Needtargetowner: 0
+  Autotarget: 0
+  pos: 0
+  owner: {fileID: 0}
+  availableCard: 0
+  setturn: -1
+  attackchance: 1
+  changebattlepos: 1
+  magictype: 1

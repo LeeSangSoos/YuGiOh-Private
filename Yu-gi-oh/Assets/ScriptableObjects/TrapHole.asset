@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3144937c655841444861c38dfc03b734, type: 3}
+  m_Name: TrapHole
+  m_EditorClassIdentifier: 
+  description: 
+  cardimage: {fileID: 21300000, guid: 85fb29eaa519d5148a1eb4ffabfa41fa, type: 3}
+  iscardfaceup: 0
+  deathreason: 0
+  playManager: {fileID: 0}
+  trigger: 2
+  targetcard: {fileID: 0}
+  cardNameUsed1: 0
+  thisCardUsed: 0
+  NeedTarget: 1
+  Needtargetpos: 0
+  Needtargettype: 0
+  Needtargetowner: 0
+  Autotarget: 1
+  pos: 0
+  owner: {fileID: 0}
+  availableCard: 0
+  setturn: -1
+  attackchance: 1
+  changebattlepos: 1
+  traptype: 0

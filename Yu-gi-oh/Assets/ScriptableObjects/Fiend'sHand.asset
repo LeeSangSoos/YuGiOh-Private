@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63ce299db014f6b4996a6745e0d994eb, type: 3}
+  m_Name: Fiend'sHand
+  m_EditorClassIdentifier: 
+  description: 
+  cardimage: {fileID: -7661048919565006682, guid: 127c5778b1274aa4a8f00b0a327aef51, type: 3}
+  iscardfaceup: 0
+  deathreason: 0
+  playManager: {fileID: 0}
+  trigger: 0
+  targetcard: {fileID: 0}
+  cardNameUsed1: 0
+  thisCardUsed: 0
+  NeedTarget: 0
+  Needtargetpos: 0
+  Needtargettype: 0
+  Needtargetowner: 0
+  Autotarget: 0
+  pos: 0
+  owner: {fileID: 0}
+  availableCard: 0
+  setturn: -1
+  attackchance: 1
+  changebattlepos: 1
+  monstertype: 6
+  attribute: 0
+  level: 2
+  archetype: 00000000
+  formation: 0
+  atk: 600
+  def: 600
+  originatk: 600
+  origindef: 600
+  summonmMethod: 0

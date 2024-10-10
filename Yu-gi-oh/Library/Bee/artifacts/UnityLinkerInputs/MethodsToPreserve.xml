@@ -1,0 +1,66 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="CardListManager">
+			<method name="FindandDisplay"/>
+		</type>
+		<type fullname="DeckEditManager">
+			<method name="SaveDeck"/>
+			<method name="ToMenu"/>
+		</type>
+		<type fullname="MenuManager">
+			<method name="ResestDeck"/>
+			<method name="StartPlay"/>
+			<method name="ToAiDeckEdit"/>
+			<method name="ToDeckEdit"/>
+			<method name="UserOrAi"/>
+		</type>
+		<type fullname="PlayManagerScript">
+			<method name="CloseSetting"/>
+			<method name="OpenSetting"/>
+			<method name="Surrender"/>
+		</type>
+		<type fullname="User">
+			<method name="ActivateMagicTrapOnField"/>
+			<method name="Attack"/>
+			<method name="BackToHand"/>
+			<method name="ChangeBattlePosition"/>
+			<method name="ChooseFieldMagicZone12"/>
+			<method name="ChooseFieldMagicZone6"/>
+			<method name="ChooseLinkZoneLeft"/>
+			<method name="ChooseLinkZoneRight"/>
+			<method name="ChooseMagicZone125"/>
+			<method name="ChooseMagicZone126"/>
+			<method name="ChooseMagicZone127"/>
+			<method name="ChooseMagicZone128"/>
+			<method name="ChooseMagicZone129"/>
+			<method name="ChooseMagicZone65"/>
+			<method name="ChooseMagicZone66"/>
+			<method name="ChooseMagicZone67"/>
+			<method name="ChooseMagicZone68"/>
+			<method name="ChooseMagicZone69"/>
+			<method name="ChooseMonsterZone120"/>
+			<method name="ChooseMonsterZone121"/>
+			<method name="ChooseMonsterZone122"/>
+			<method name="ChooseMonsterZone123"/>
+			<method name="ChooseMonsterZone124"/>
+			<method name="ChooseMonsterZone60"/>
+			<method name="ChooseMonsterZone61"/>
+			<method name="ChooseMonsterZone62"/>
+			<method name="ChooseMonsterZone63"/>
+			<method name="ChooseMonsterZone64"/>
+			<method name="CloseChooseEffectToActivatePanel"/>
+			<method name="CloseRandCardListView"/>
+			<method name="EffectHand"/>
+			<method name="EndPageBtnJob"/>
+			<method name="EnemyExiledView"/>
+			<method name="EnemyGraveView"/>
+			<method name="MonsterEffectOnField"/>
+			<method name="MyExiledView"/>
+			<method name="MyExtraDeckView"/>
+			<method name="MyGraveView"/>
+			<method name="NextPageBtn"/>
+			<method name="NormalSummon"/>
+			<method name="SetCardFromHand"/>
+		</type>
+	</assembly>
+</linker>
